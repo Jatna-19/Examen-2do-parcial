@@ -107,7 +107,8 @@ En ella se observa que las tareas se ejecutaron correctamente en los dos servido
 
 **Figura 1. Ejecución exitosa del playbook en los servidores Ubuntu.**
 
-!Ejecución exitosa del playbook ![alt text](image.png)
+!Ejecución exitosa del playbook ! <img width="1047" height="647" alt="image" src="https://github.com/user-attachments/assets/2ff552d4-44ff-4767-8f5c-dc788e516621" />
+
 
 ### Resultado obtenido
 
